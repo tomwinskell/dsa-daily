@@ -1,0 +1,4 @@
+node_modules/
+.submit-result.json
+*.log
+.DS_Store

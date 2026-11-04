@@ -1,0 +1,21 @@
+{
+  "name": "dsa-daily",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A daily DSA problem playground in TypeScript: one problem a day, tested on submit.",
+  "scripts": {
+    "today": "tsx scripts/today.ts",
+    "next": "tsx scripts/next.ts",
+    "dev": "tsx scripts/dev.ts",
+    "submit": "tsx scripts/submit.ts",
+    "stats": "tsx scripts/stats.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.1.0"
+  }
+}
