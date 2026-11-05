@@ -1,0 +1,10 @@
+{
+  "order": 1,
+  "lc": 1,
+  "title": "Two Sum",
+  "slug": "two-sum",
+  "difficulty": "Easy",
+  "topic": "Arrays & Hashing",
+  "id": "001-two-sum",
+  "url": "https://leetcode.com/problems/two-sum/"
+}
