@@ -1,0 +1,10 @@
+{
+  "order": 3,
+  "lc": 217,
+  "title": "Contains Duplicate",
+  "slug": "contains-duplicate",
+  "difficulty": "Easy",
+  "topic": "Arrays & Hashing",
+  "id": "003-contains-duplicate",
+  "url": "https://leetcode.com/problems/contains-duplicate/"
+}
