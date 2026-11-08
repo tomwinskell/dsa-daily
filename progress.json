@@ -75,6 +75,11 @@
       "assignedOn": "2026-11-07",
       "solvedOn": null,
       "attempts": []
+    },
+    "004-valid-anagram": {
+      "assignedOn": "2026-11-08",
+      "solvedOn": null,
+      "attempts": []
     }
   }
 }

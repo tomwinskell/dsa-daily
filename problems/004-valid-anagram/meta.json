@@ -1,0 +1,10 @@
+{
+  "order": 4,
+  "lc": 242,
+  "title": "Valid Anagram",
+  "slug": "valid-anagram",
+  "difficulty": "Easy",
+  "topic": "Arrays & Hashing",
+  "id": "004-valid-anagram",
+  "url": "https://leetcode.com/problems/valid-anagram/"
+}
