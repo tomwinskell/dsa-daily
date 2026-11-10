@@ -1,0 +1,10 @@
+{
+  "order": 6,
+  "lc": 49,
+  "title": "Group Anagrams",
+  "slug": "group-anagrams",
+  "difficulty": "Medium",
+  "topic": "Arrays & Hashing",
+  "id": "006-group-anagrams",
+  "url": "https://leetcode.com/problems/group-anagrams/"
+}
