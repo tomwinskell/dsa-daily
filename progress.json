@@ -90,6 +90,11 @@
       "assignedOn": "2026-11-10",
       "solvedOn": null,
       "attempts": []
+    },
+    "007-top-k-frequent-elements": {
+      "assignedOn": "2026-11-11",
+      "solvedOn": null,
+      "attempts": []
     }
   }
 }
