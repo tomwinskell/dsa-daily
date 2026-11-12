@@ -1,0 +1,10 @@
+{
+  "order": 8,
+  "lc": 128,
+  "title": "Longest Consecutive Sequence",
+  "slug": "longest-consecutive-sequence",
+  "difficulty": "Medium",
+  "topic": "Arrays & Hashing",
+  "id": "008-longest-consecutive-sequence",
+  "url": "https://leetcode.com/problems/longest-consecutive-sequence/"
+}

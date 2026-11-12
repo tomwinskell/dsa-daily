@@ -95,6 +95,11 @@
       "assignedOn": "2026-11-11",
       "solvedOn": null,
       "attempts": []
+    },
+    "008-longest-consecutive-sequence": {
+      "assignedOn": "2026-11-12",
+      "solvedOn": null,
+      "attempts": []
     }
   }
 }
