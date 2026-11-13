@@ -1,0 +1,10 @@
+{
+  "order": 9,
+  "lc": 560,
+  "title": "Subarray Sum Equals K",
+  "slug": "subarray-sum-equals-k",
+  "difficulty": "Medium",
+  "topic": "Arrays & Hashing",
+  "id": "009-subarray-sum-equals-k",
+  "url": "https://leetcode.com/problems/subarray-sum-equals-k/"
+}
