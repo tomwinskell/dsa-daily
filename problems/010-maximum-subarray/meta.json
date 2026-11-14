@@ -1,0 +1,10 @@
+{
+  "order": 10,
+  "lc": 53,
+  "title": "Maximum Subarray",
+  "slug": "maximum-subarray",
+  "difficulty": "Medium",
+  "topic": "Arrays & Hashing",
+  "id": "010-maximum-subarray",
+  "url": "https://leetcode.com/problems/maximum-subarray/"
+}

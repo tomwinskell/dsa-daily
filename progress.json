@@ -105,6 +105,11 @@
       "assignedOn": "2026-11-13",
       "solvedOn": null,
       "attempts": []
+    },
+    "010-maximum-subarray": {
+      "assignedOn": "2026-11-14",
+      "solvedOn": null,
+      "attempts": []
     }
   }
 }
