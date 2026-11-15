@@ -110,6 +110,11 @@
       "assignedOn": "2026-11-14",
       "solvedOn": null,
       "attempts": []
+    },
+    "011-maximum-product-subarray": {
+      "assignedOn": "2026-11-15",
+      "solvedOn": null,
+      "attempts": []
     }
   }
 }

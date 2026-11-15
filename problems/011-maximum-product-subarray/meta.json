@@ -1,0 +1,10 @@
+{
+  "order": 11,
+  "lc": 152,
+  "title": "Maximum Product Subarray",
+  "slug": "maximum-product-subarray",
+  "difficulty": "Medium",
+  "topic": "Arrays & Hashing",
+  "id": "011-maximum-product-subarray",
+  "url": "https://leetcode.com/problems/maximum-product-subarray/"
+}
