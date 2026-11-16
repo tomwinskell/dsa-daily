@@ -1,0 +1,10 @@
+{
+  "order": 12,
+  "lc": 42,
+  "title": "Trapping Rain Water",
+  "slug": "trapping-rain-water",
+  "difficulty": "Hard",
+  "topic": "Arrays & Hashing",
+  "id": "012-trapping-rain-water",
+  "url": "https://leetcode.com/problems/trapping-rain-water/"
+}
