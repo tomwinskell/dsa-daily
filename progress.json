@@ -120,6 +120,11 @@
       "assignedOn": "2026-11-16",
       "solvedOn": null,
       "attempts": []
+    },
+    "013-valid-palindrome": {
+      "assignedOn": "2026-11-17",
+      "solvedOn": null,
+      "attempts": []
     }
   }
 }

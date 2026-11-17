@@ -1,0 +1,10 @@
+{
+  "order": 13,
+  "lc": 125,
+  "title": "Valid Palindrome",
+  "slug": "valid-palindrome",
+  "difficulty": "Easy",
+  "topic": "Two Pointers",
+  "id": "013-valid-palindrome",
+  "url": "https://leetcode.com/problems/valid-palindrome/"
+}
