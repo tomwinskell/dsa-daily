@@ -1,0 +1,10 @@
+{
+  "order": 14,
+  "lc": 15,
+  "title": "3Sum",
+  "slug": "3sum",
+  "difficulty": "Medium",
+  "topic": "Two Pointers",
+  "id": "014-3sum",
+  "url": "https://leetcode.com/problems/3sum/"
+}
