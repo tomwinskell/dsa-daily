@@ -1,0 +1,10 @@
+{
+  "order": 16,
+  "lc": 73,
+  "title": "Set Matrix Zeroes",
+  "slug": "set-matrix-zeroes",
+  "difficulty": "Medium",
+  "topic": "Matrix",
+  "id": "016-set-matrix-zeroes",
+  "url": "https://leetcode.com/problems/set-matrix-zeroes/"
+}
