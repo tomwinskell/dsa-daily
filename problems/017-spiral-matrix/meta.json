@@ -1,0 +1,10 @@
+{
+  "order": 17,
+  "lc": 54,
+  "title": "Spiral Matrix",
+  "slug": "spiral-matrix",
+  "difficulty": "Medium",
+  "topic": "Matrix",
+  "id": "017-spiral-matrix",
+  "url": "https://leetcode.com/problems/spiral-matrix/"
+}
