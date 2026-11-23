@@ -1,0 +1,10 @@
+{
+  "order": 19,
+  "lc": 79,
+  "title": "Word Search",
+  "slug": "word-search",
+  "difficulty": "Medium",
+  "topic": "Matrix",
+  "id": "019-word-search",
+  "url": "https://leetcode.com/problems/word-search/"
+}
