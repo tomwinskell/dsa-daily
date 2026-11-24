@@ -1,0 +1,10 @@
+{
+  "order": 20,
+  "lc": 56,
+  "title": "Merge Intervals",
+  "slug": "merge-intervals",
+  "difficulty": "Medium",
+  "topic": "Intervals",
+  "id": "020-merge-intervals",
+  "url": "https://leetcode.com/problems/merge-intervals/"
+}

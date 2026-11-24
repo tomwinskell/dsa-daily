@@ -155,6 +155,11 @@
       "assignedOn": "2026-11-23",
       "solvedOn": null,
       "attempts": []
+    },
+    "020-merge-intervals": {
+      "assignedOn": "2026-11-24",
+      "solvedOn": null,
+      "attempts": []
     }
   }
 }
