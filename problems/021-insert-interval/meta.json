@@ -1,0 +1,10 @@
+{
+  "order": 21,
+  "lc": 57,
+  "title": "Insert Interval",
+  "slug": "insert-interval",
+  "difficulty": "Medium",
+  "topic": "Intervals",
+  "id": "021-insert-interval",
+  "url": "https://leetcode.com/problems/insert-interval/"
+}
