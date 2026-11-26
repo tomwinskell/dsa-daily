@@ -1,0 +1,10 @@
+{
+  "order": 22,
+  "lc": 435,
+  "title": "Non-overlapping Intervals",
+  "slug": "non-overlapping-intervals",
+  "difficulty": "Medium",
+  "topic": "Intervals",
+  "id": "022-non-overlapping-intervals",
+  "url": "https://leetcode.com/problems/non-overlapping-intervals/"
+}

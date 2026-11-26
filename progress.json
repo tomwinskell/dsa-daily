@@ -165,6 +165,11 @@
       "assignedOn": "2026-11-25",
       "solvedOn": null,
       "attempts": []
+    },
+    "022-non-overlapping-intervals": {
+      "assignedOn": "2026-11-26",
+      "solvedOn": null,
+      "attempts": []
     }
   }
 }
