@@ -170,6 +170,11 @@
       "assignedOn": "2026-11-26",
       "solvedOn": null,
       "attempts": []
+    },
+    "023-longest-substring-without-repeating-characters": {
+      "assignedOn": "2026-11-27",
+      "solvedOn": null,
+      "attempts": []
     }
   }
 }
