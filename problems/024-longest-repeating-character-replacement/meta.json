@@ -1,0 +1,10 @@
+{
+  "order": 24,
+  "lc": 424,
+  "title": "Longest Repeating Character Replacement",
+  "slug": "longest-repeating-character-replacement",
+  "difficulty": "Medium",
+  "topic": "Strings",
+  "id": "024-longest-repeating-character-replacement",
+  "url": "https://leetcode.com/problems/longest-repeating-character-replacement/"
+}
